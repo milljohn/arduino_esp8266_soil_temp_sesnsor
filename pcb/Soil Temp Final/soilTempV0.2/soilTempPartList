@@ -1,0 +1,33 @@
+Partlist
+
+Exported from soil temp v0.2.brd at 10/22/19 7:44 PM
+
+EAGLE Version 9.1.3 Copyright (c) 1988-2018 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value                     Package                         Library                                Position (mm)         Orientation
+
+BT1      18650 LIon                BATTERY_18650-HOLDER            SparkFun-Batteries                     (53.34 11.5)          R0
+C1       1uf                       C0805                           Seeed-Capacitor                        (8.89 17.78)          R180
+C2       1uf                       C0805                           Seeed-Capacitor                        (16.51 17.78)         R180
+C3       1uf                       C0805                           Seeed-Capacitor                        (15.24 10.16)         R180
+C4       1uf                       C0805                           Seeed-Capacitor                        (90.17 11.43)         R180
+C5       10uf                      C0805                           Seeed-Capacitor                        (6.35 17.78)          R180
+C6       1uf                       C0805                           Seeed-Capacitor                        (120.65 10.16)        R0
+C7       1uf                       C0805                           Seeed-Capacitor                        (102.87 16.51)        R0
+JP3      USB to Serial             1X06/90                         pinhead                                (95.25 0)             R180
+R3       5.5k                      R0805                           BeagleBone_Blue_R3                     (106.68 16.51)        R90
+R4       10k                       R0805                           BeagleBone_Blue_R3                     (119.38 16.51)        R90
+R5       10k                       R0805                           BeagleBone_Blue_R3                     (116.84 10.16)        R90
+R6       10k                       R0805                           BeagleBone_Blue_R3                     (120.65 5.08)         R90
+R7       10k                       R0805                           BeagleBone_Blue_R3                     (116.84 5.08)         R90
+R8       460R                      R0805                           BeagleBone_Blue_R3                     (95.25 8.89)          R270
+R9       460R                      R0805                           BeagleBone_Blue_R3                     (99.06 8.89)          R270
+S1       Reset                     TACTILE_SWITCH_SMD_6.2MM_TALL   SparkFun-Switches                      (95.25 17.2)          R270
+S2       MSK-12C02_SMD_SPDT_SWITCH MSK-12C02                       MSK-12C02 SMD Micro Slider Switch SPDT (12.319 2.54)         R0
+S3       MSK-12C02_SMD_SPDT_SWITCH MSK-12C02                       MSK-12C02 SMD Micro Slider Switch SPDT (109.22 2.54)         R0
+U1       ESP8266 - ESP-WROOM-02    ESP12                           esp8266modules                         (133.35 11.5)         R270
+U2       XC6204B332MR-SOT23-5      SOT-23-5                        Seeed-IC                               (12.7 17.78)          R0
+U3       TP4056-MODULE             TP4056-LITHIUM-PROTECTED-MODULE userlib                                (-8.89 11.43)         R0
+U4       DS18B20                   21-0248A                        ds18b20                                (11.43 13.97)         R90
